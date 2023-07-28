@@ -3,3 +3,5 @@ opencv_python==4.8.0.74
 Pillow==9.5.0
 streamlit==1.25.0
 tensorflow==2.13.0
+PyOpenGL
+PyOpenGL_accelerate
